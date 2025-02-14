@@ -1,0 +1,39 @@
+.container {
+	text-align: center;
+	padding: 20px;
+  }
+  
+  .nav-bar {
+	display: flex;
+	justify-content: center;
+	gap: 15px;
+	margin-bottom: 20px;
+  }
+  
+  .nav-button {
+	text-decoration: none;
+	background-color: #2ecc71;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 25px;
+	font-size: 18px;
+	font-weight: bold;
+	transition: background 0.3s;
+  }
+  
+  .nav-button:hover {
+	background-color: #27ae60;
+  }
+  
+  .title {
+	font-size: 36px;
+	font-weight: bold;
+	color: #333;
+	margin-bottom: 20px;
+  }
+  
+  .chart-container {
+	max-width: 800px;
+	margin: 0 auto;
+  }
+  
